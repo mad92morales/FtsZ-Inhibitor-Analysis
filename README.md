@@ -34,7 +34,7 @@ FtsZ-Inhibitor-Analysis/
 
 The full scientific write-up, including methods, analysis, figures, and references, is available here:
 
-📄 [`report/FtsZ_inhibitor_analysis.pdf`](report/FtsZ_inhibitor_analysis.pdf)
+📄 [`View PDF Report`](report/FtsZ_inhibitor_analysis.pdf)
 
 ---
 
